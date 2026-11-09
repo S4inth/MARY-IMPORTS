@@ -1,1 +1,16 @@
-{"name":"Mercadinho Delivery","short_name":"Mercadinho","start_url":"./index.html","display":"standalone","background_color":"#f4f7f3","theme_color":"#166534","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "name": "MARY IMPORTS",
+  "short_name": "MARY IMPORTS",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fbfaf4",
+  "theme_color": "#063b28",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
