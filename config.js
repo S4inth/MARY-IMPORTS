@@ -1,2 +1,8 @@
-// Personalize antes de publicar. O PIN é apenas uma barreira visual, NÃO segurança real.
-window.MARKET_CONFIG = { adminPin: '071725S@n', whatsapp: '556296548587', storeName: 'MARY IMPORTS', deliveryFee: 1 };
+// Somente chaves públicas do Supabase. NUNCA coloque service_role, senha ou token secreto aqui.
+window.MARY_CONFIG = {
+  supabaseUrl: '', // https://SEU-PROJETO.supabase.co
+  supabaseAnonKey: '', // chave publishable/anon pública
+  whatsapp: '556296548587',
+  storeName: 'MARY IMPORTS',
+  deliveryFee: 1
+};
